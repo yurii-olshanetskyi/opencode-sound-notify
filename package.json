@@ -1,0 +1,33 @@
+{
+  "name": "opencode-sound-notify",
+  "version": "0.1.0",
+  "description": "Opencode plugin — play notification sounds when responses complete",
+  "keywords": [
+    "opencode",
+    "plugin",
+    "sound",
+    "notification",
+    "attention"
+  ],
+  "homepage": "https://github.com/YOUR_USER/opencode-sound-notify",
+  "license": "MIT",
+  "author": "YOUR_NAME <YOUR_EMAIL> (https://github.com/YOUR_USER)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USER/opencode-sound-notify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USER/opencode-sound-notify/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "config/"
+  ],
+  "peerDependencies": {
+    "@opencode/sdk": ">=1.17.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
