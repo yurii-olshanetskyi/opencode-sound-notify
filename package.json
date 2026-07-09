@@ -9,15 +9,15 @@
     "notification",
     "attention"
   ],
-  "homepage": "https://github.com/YOUR_USER/opencode-sound-notify",
+  "homepage": "https://github.com/yurii-olshanetskyi/opencode-sound-notify",
   "license": "MIT",
   "author": "YOUR_NAME <YOUR_EMAIL> (https://github.com/YOUR_USER)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USER/opencode-sound-notify.git"
+    "url": "git+https://github.com/yurii-olshanetskyi/opencode-sound-notify.git",
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USER/opencode-sound-notify/issues"
+    "url": "https://github.com/yurii-olshanetskyi/opencode-sound-notify/issues"
   },
   "main": "index.js",
   "files": [
