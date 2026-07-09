@@ -14,7 +14,7 @@
   "author": "YOUR_NAME <YOUR_EMAIL> (https://github.com/YOUR_USER)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yurii-olshanetskyi/opencode-sound-notify.git",
+    "url": "git+https://github.com/yurii-olshanetskyi/opencode-sound-notify.git"
   },
   "bugs": {
     "url": "https://github.com/yurii-olshanetskyi/opencode-sound-notify/issues"
